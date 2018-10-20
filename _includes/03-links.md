@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Let's connect on GitHub](https://github.com/rookieblue0001)
