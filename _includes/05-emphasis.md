@@ -5,3 +5,5 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 *The chance to encounter, 
 A shared story, the act of a small kindness
 That's what the world needs*
+
+*What we meant is most times lost in what we didn't say*
